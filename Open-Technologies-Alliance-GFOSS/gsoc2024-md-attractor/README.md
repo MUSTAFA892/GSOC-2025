@@ -1,19 +1,6 @@
-# MD-Attractor
+# Project Overview
 
-## Google Summer of Code 2024 Proposal
-
-### Organization: Open Technologies Alliance - GFOSS
-
-### Project: MD-Attractor
-
-#### Other Details
-- **Contributor:** [Ayush Ray](https://github.com/aayushray)
-- **Mentors:** [Giannis Prokopiou](https://github.com/GiannisProkopiouOrfium), [Panagiotis Sfendourakis](https://github.com/sfendourakis)
-- Detailed Insights about the project is provided in this [Medium](https://medium.com/p/18518c6ca4df) blog.
-
-## Project Overview
-
-### Objective
+## Objective
 Develop a web application to recommend song based on the music data from various platforms (Spotify, Deezer) using Django and React.
 
 ### Features
@@ -47,10 +34,10 @@ Develop a web application to recommend song based on the music data from various
 ## Setup Instructions
 To set up the project, follow these steps:
 1. Navigate to the backend directory.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Navigate to backend directory and follow the instructions given in its Readme file, to setup Backend.
-4. Navigate to frontend directory and follow the instructions given in its Readme file, to setup FrontEnd.
+2. Install the required dependencies by running `pip install -r requirements.txt` for backend.
+3. Install the required dependencies by running `npm install` for frontend.
+4. Navigate to backend directory and follow the instructions given in its Readme file, to setup Backend.
+5. Navigate to frontend directory and follow the instructions given in its Readme file, to setup FrontEnd.
+6. if it shows some error in frontend installaltion then run the command `npm install --legacy-peer-deps`.
 
 
-## Contact
-For any questions or contributions, please contact Ayush Ray at ayushray38@gmail.com.
